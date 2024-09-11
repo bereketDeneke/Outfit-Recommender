@@ -72,8 +72,6 @@ The primary goal of this project is to help users decide what to wear based on t
 ### Have a great day!
 No matter what the weather is like, being prepared with the right clothing will help you enjoy it to the fullest.
 
-## License
-
-## Author
+## Authors
 - 
 ```
