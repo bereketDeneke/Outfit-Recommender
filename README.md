@@ -1,4 +1,3 @@
-```markdown
 # Weather-Based Outfit Recommendation System
 
 This repository contains a Python-based application that fetches real-time weather data based on the user's current location and provides outfit recommendations accordingly. The recommendations are based on weather conditions such as temperature, wind speed, humidity, and precipitation.
@@ -61,7 +60,6 @@ The primary goal of this project is to help users decide what to wear based on t
 
 ### Example
 
-```markdown
 ## Current Weather Details in New York City, US:
 - 🌡 **Temperature:** 21.0°C
 - 🌬 **Wind Speed:** 2.0 km/h
@@ -73,7 +71,6 @@ The primary goal of this project is to help users decide what to wear based on t
 
 ### Have a great day!
 No matter what the weather is like, being prepared with the right clothing will help you enjoy it to the fullest.
-```
 
 ## License
 
